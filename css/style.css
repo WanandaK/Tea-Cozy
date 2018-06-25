@@ -18,6 +18,7 @@ header {
   align-items: center;
   justify-content: space-between;
   background-color: black;
+  top: 0px;
 }
 
 .logo img {
@@ -46,7 +47,7 @@ header {
   width: 1200px;
   height: 700px;
   align-items: center;
-  margin: 70px auto auto auto;
+  margin: 69px auto auto auto;
 }
 
 .narrative {
